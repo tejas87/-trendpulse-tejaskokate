@@ -1,0 +1,108 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47720418,"Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",technology,14,0,danoandco,2026-04-10 20:23:36,0.0,False
+47669923,Clojure on Fennel Part One: Persistent Data Structures,technology,69,2,roxolotl,2026-04-10 20:23:36,0.02857142857142857,False
+47716490,FBI used iPhone notification data to retrieve deleted Signal messages,technology,452,230,01-_-,2026-04-10 20:23:36,0.5077262693156733,True
+47704804,How NASA built Artemis II’s fault-tolerant computer,technology,565,215,speckx,2026-04-10 20:23:36,0.37985865724381623,True
+47721207,HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X,technology,22,2,speckx,2026-04-10 20:23:36,0.08695652173913043,False
+47719486,France to ditch Windows for Linux to reduce reliance on US tech,technology,276,110,Teever,2026-04-10 20:23:36,0.3971119133574007,True
+47712656,We've raised $17M to build what comes after Git,technology,276,600,ellieh,2026-04-10 20:23:36,2.1660649819494586,True
+47718891,Supply chain nightmare: How Rust will be attacked and what we can do to mitigate,technology,78,43,fanf2,2026-04-10 20:23:36,0.5443037974683544,False
+47718470,Code is run more than read (2023),technology,100,69,facundo_olano,2026-04-10 20:23:36,0.6831683168316832,False
+47720060,Why I'm Building a Database Engine in C#,technology,40,9,vyrotek,2026-04-10 20:23:36,0.21951219512195122,False
+47709158,Charcuterie – Visual similarity Unicode explorer,technology,300,70,rickcarlino,2026-04-10 20:23:36,0.23255813953488372,True
+47678844,Show HN: Marimo pair – Reactive Python notebooks as environments for agents,technology,105,26,manzt,2026-04-10 20:23:36,0.24528301886792453,False
+47718114,US summons bank bosses over cyber risks from Anthropic's latest AI model,technology,88,72,ascold,2026-04-10 20:23:36,0.8089887640449438,False
+47717587,OpenAI backs Illinois bill that would limit when AI labs can be held liable,technology,391,287,smurda,2026-04-10 20:23:36,0.7321428571428571,True
+47707632,"Instant 1.0, a backend for AI-coded apps",technology,195,106,stopachka,2026-04-10 20:23:36,0.5408163265306123,False
+47708697,"Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",technology,26,6,qvac,2026-04-10 20:23:36,0.2222222222222222,False
+47706141,Research-Driven Agents: When an agent reads before it codes,technology,199,52,hopechong,2026-04-10 20:23:36,0.26,False
+47674950,An AI robot in my home,technology,64,28,kukanani,2026-04-10 20:23:36,0.4307692307692308,False
+47713113,"The Raft consensus algorithm explained through ""Mean Girls"" (2019)",technology,125,28,vermilingua,2026-04-10 20:23:36,0.2222222222222222,False
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,technology,147,22,juretriglav,2026-04-10 20:23:36,0.14864864864864866,False
+47687273,Git commands I run before reading any code,technology,2263,487,grepsedawk,2026-04-10 20:23:36,0.2151060070671378,True
+47719268,Born Private: Reserve your child's first email address with Proton,technology,16,9,teekert,2026-04-10 20:23:36,0.5294117647058824,False
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,26,4,russellharper,2026-04-10 20:23:36,0.14814814814814814,False
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,159,97,SirHound,2026-04-10 20:23:36,0.60625,False
+47695666,Show HN: Druids – Build your own software factory,technology,57,12,etherio,2026-04-10 20:23:36,0.20689655172413793,False
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,340,221,kisamoto,2026-04-10 20:23:36,0.6480938416422287,True
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,technology,244,267,speckx,2026-04-10 20:23:36,1.089795918367347,True
+47701233,Claude mixes up who said what,technology,448,341,sixhobbits,2026-04-10 20:23:36,0.7594654788418709,True
+47660434,C# in Unity 2026: Writing more modern code,technology,77,99,hacker_13,2026-04-10 20:23:36,1.2692307692307692,False
+47704285,Clean code in the age of coding agents,technology,58,86,yanis_t,2026-04-10 20:23:36,1.4576271186440677,False
+47710782,The Training Example Lie Bracket,technology,30,16,pb1729,2026-04-10 20:23:36,0.5161290322580645,False
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,401,48,WerWolv,2026-04-10 20:23:36,0.11940298507462686,True
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1525,832,Ryan5453,2026-04-10 20:23:36,0.54521625163827,True
+47689237,US cities are axing Flock Safety surveillance technology,technology,755,428,giuliomagnifico,2026-04-10 20:23:36,0.5661375661375662,True
+47708817,Maine is about to become the first state to ban major new data centers,technology,293,420,rmason,2026-04-10 20:23:36,1.4285714285714286,True
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,technology,106,23,hasheddan,2026-04-10 20:23:36,0.21495327102803738,False
+47656518,Your File System Is Already A Graph Database,technology,183,75,alxndr,2026-04-10 20:23:36,0.4076086956521739,False
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,388,127,CharlesW,2026-04-10 20:23:36,0.3264781491002571,True
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,424,195,nickvec,2026-04-10 20:23:36,0.4588235294117647,True
+47708411,Bitmap fonts make computers feel like computers again,technology,108,80,speckx,2026-04-10 20:23:36,0.7339449541284404,False
+47704881,The Vercel plugin on Claude Code wants to read your prompts,technology,268,109,akshay2603,2026-04-10 20:23:36,0.4052044609665427,True
+47704443,Study found that young adults have grown less hopeful and more angry about AI,technology,131,176,elsewhen,2026-04-10 20:23:36,1.3333333333333333,False
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,324,56,chrsw,2026-04-10 20:23:36,0.1723076923076923,True
+47711960,Vibe-Coded Ext4 for OpenBSD,technology,11,5,signa11,2026-04-10 20:23:36,0.4166666666666667,False
+47718763,Nearly half of US data centers planned for 2026 canceled or delayed,technology,10,0,vrganj,2026-04-10 20:23:36,0.0,False
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,technology,213,214,bundie,2026-04-10 20:23:36,1.0,True
+47672295,Every GPU That Mattered,technology,329,207,jonbaer,2026-04-10 20:23:36,0.6272727272727273,True
+47674606,Show HN: Unicode Steganography,technology,55,14,PatrickVuscan,2026-04-10 20:23:36,0.25,False
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,technology,18,15,Rial_Labs,2026-04-10 20:23:36,0.7894736842105263,False
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",technology,32,2,1vuio0pswjnm7,2026-04-10 20:23:36,0.06060606060606061,False
+47713732,First man convicted under Take It Down Act kept making AI nudes after arrest,technology,16,0,tzs,2026-04-10 20:23:36,0.0,False
+47700460,Ask HN: What are you building that's not AI related?,technology,131,171,meander_water,2026-04-10 20:23:36,1.2954545454545454,False
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",technology,22,7,1vuio0pswjnm7,2026-04-10 20:23:36,0.30434782608695654,False
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,technology,52,37,dreamsome,2026-04-10 20:23:36,0.6981132075471698,False
+47689319,Show HN: Skrun – Deploy any agent skill as an API,technology,60,12,frizull,2026-04-10 20:23:36,0.19672131147540983,False
+47709197,US defense official overseeing AI reaped millions selling xAI stock,technology,55,11,malshe,2026-04-10 20:23:36,0.19642857142857142,False
+47715761,5 Open-Source Projects Running Transformers on CPUs to GPUs in Pure-Modern Java,technology,7,2,mikepapadim,2026-04-10 20:23:36,0.25,False
+47698067,You Can Just Print an Air Purifier,technology,39,9,zdw,2026-04-10 20:23:36,0.225,False
+47715291,Scientists invented a fake disease. AI told people it was real,technology,85,88,latexr,2026-04-10 20:23:36,1.0232558139534884,False
+47675625,Cloudflare targets 2029 for full post-quantum security,technology,383,112,ilreb,2026-04-10 20:23:36,0.2916666666666667,True
+47710405,Verification Is the Next Bottleneck in AI-Assisted Development,technology,5,2,aray07,2026-04-10 20:23:36,0.3333333333333333,False
+47664836,AI helps add 10k more photos to OldNYC,technology,144,50,evakhoury,2026-04-10 20:23:36,0.3448275862068966,False
+47712134,Mexican surveillance company Grupo Seguritech watches the U.S. border,technology,5,0,classichasclass,2026-04-10 20:23:36,0.0,False
+47672318,Blackholing My Email,technology,178,35,semyonsh,2026-04-10 20:23:36,0.19553072625698323,False
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,technology,80,27,bjord,2026-04-10 20:23:36,0.3333333333333333,False
+47715982,South Korea introduces universal basic mobile data access,technology,5,1,rguiscard,2026-04-10 20:23:36,0.16666666666666666,False
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,434,200,henrygarner,2026-04-10 20:23:36,0.45977011494252873,True
+47675013,Dropping Cloudflare for Bunny.net,technology,411,209,shintoist,2026-04-10 20:23:36,0.5072815533980582,True
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,166,264,tantalor,2026-04-10 20:23:36,1.5808383233532934,False
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1342,747,StanAngeloff,2026-04-10 20:23:36,0.556217423678332,True
+47718458,Tech job relocation market is recovering. The competition is growing faster,technology,40,66,andrewstetsenko,2026-04-10 20:23:36,1.6097560975609757,False
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,905,134,armanified,2026-04-10 20:23:36,0.1479028697571744,True
+47677241,Taste in the age of AI and LLMs,technology,263,210,speckx,2026-04-10 20:23:36,0.7954545454545454,True
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,292,36,karimf,2026-04-10 20:23:36,0.12286689419795221,True
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,155,22,ikessler,2026-04-10 20:23:36,0.14102564102564102,False
+47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",technology,54,12,akagusu,2026-04-10 20:23:36,0.21818181818181817,False
+47699086,App Store sees 84% surge in new apps as AI coding tools take off,technology,65,74,gardaani,2026-04-10 20:23:36,1.121212121212121,False
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,technology,15,4,guitarlimeo,2026-04-10 20:23:36,0.25,False
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,128,29,kitfunso,2026-04-10 20:23:36,0.2248062015503876,False
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,132,72,stevebmark,2026-04-10 20:23:36,0.5413533834586466,False
+47700084,"Code Is Cheap Now, and That Changes Everything",technology,66,57,v-mdev,2026-04-10 20:23:36,0.8507462686567164,False
+47687755,Struggle Against the Gods,technology,57,6,marcofloriano,2026-04-10 20:23:36,0.10344827586206896,False
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,219,26,desideratum,2026-04-10 20:23:36,0.11818181818181818,True
+47705358,AI Cybersecurity After Mythos: The Jagged Frontier,technology,8,1,akavel,2026-04-10 20:23:36,0.1111111111111111,False
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,244,375,flinner,2026-04-10 20:23:36,1.530612244897959,True
+47695647,The AI Great Leap Forward,technology,132,62,jodah,2026-04-10 20:23:36,0.46616541353383456,False
+47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,technology,71,90,hackernj,2026-04-10 20:23:36,1.25,False
+47673541,AI may be making us think and write more alike,technology,231,243,giuliomagnifico,2026-04-10 20:23:36,1.0474137931034482,True
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,technology,40,48,meryll_dindin,2026-04-10 20:23:36,1.170731707317073,False
+47703498,White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates,technology,30,6,sarimkx,2026-04-10 20:23:36,0.1935483870967742,False
+47694093,"One item purchased, ten emails",technology,127,98,speckx,2026-04-10 20:23:36,0.765625,False
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,405,102,vbtechguy,2026-04-10 20:23:36,0.2512315270935961,True
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,460,294,thisislife2,2026-04-10 20:23:36,0.6377440347071583,True
+47696210,AMD AI director says Claude Code is becoming dumber and lazier since update,technology,51,14,Logans_Run,2026-04-10 20:23:36,0.2692307692307692,False
+47699090,'There's a lot of desperation': older workers turn to AI training to stay afloat,technology,38,9,Stratoscope,2026-04-10 20:23:36,0.23076923076923078,False
+47684506,LLM scraper bots are overloading acme.com's HTTPS server,technology,68,62,mjyut,2026-04-10 20:23:36,0.8985507246376812,False
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,335,166,rglullis,2026-04-10 20:23:36,0.49404761904761907,True
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,57,18,zdw,2026-04-10 20:23:36,0.3103448275862069,False
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,32,12,brene,2026-04-10 20:23:36,0.36363636363636365,False
+47715161,France Launches Government Linux Desktop Plan as Windows Exit Begins,worldnews,6,1,doener,2026-04-10 20:23:36,0.14285714285714285,False
+47709123,How Iran's Information War Machine Operates Online,worldnews,6,0,mikhael,2026-04-10 20:23:36,0.0,False
+47683613,ICE acknowledges it is using powerful spyware,worldnews,68,8,dnemmers,2026-04-10 20:23:36,0.11594202898550725,False
+47710608,FCC considers retroactive ban on foreign hardware,worldnews,6,4,topspin,2026-04-10 20:23:36,0.5714285714285714,False
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,39,23,beardyw,2026-04-10 20:23:36,0.575,False
+47712641,White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War,worldnews,11,3,bookofjoe,2026-04-10 20:23:36,0.25,False
+47710595,The Iran war depleted US weapons. Rebuilding will require China's cooperation,worldnews,11,1,n1b0m,2026-04-10 20:23:36,0.08333333333333333,False
+47704060,Not just spyware scandals: EU is funding the industry that spies on Europeans,worldnews,8,0,latexr,2026-04-10 20:23:36,0.0,False

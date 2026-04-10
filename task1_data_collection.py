@@ -119,9 +119,7 @@ with open(filename, "w", encoding="utf-8") as f:
     json.dump(collected_stories, f, ensure_ascii=False, indent=4)
 
 # Print how many stories were collected
-print("\n" + "=" * 60)
-print(" TASK 1 COMPLETE!")
+
 print(f"Collected {len(collected_stories)} stories.")
 print(f"Saved to {filename}")
-print("=" * 60)
 print(f"Stories per category: {{ { {cat: len([s for s in collected_stories if s['category'] == cat])} for cat in CATEGORIES } }}")

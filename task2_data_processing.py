@@ -56,7 +56,3 @@ print(f"\nSaved {len(df)} rows to {clean_file}")
 # Final summary: stories per category
 print("\nStories per category:")
 print(df['category'].value_counts().sort_index())
-
-print("\n" + "=" * 60)
-print(" TASK 2 COMPLETE!")
-print("=" * 60)
