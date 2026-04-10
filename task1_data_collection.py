@@ -45,10 +45,10 @@ def fetch_story(story_id: int) -> Optional[dict]:
         if response.status_code == 200:
             return response.json()
         else:
-            print(f"⚠️ Failed to fetch story {story_id} (HTTP {response.status_code})")
+            print(f"Failed to fetch story {story_id} (HTTP {response.status_code})")
             return None
     except Exception as e:
-        print(f"⚠️ Error fetching story {story_id}: {e}")
+        print(f"Error fetching story {story_id}: {e}")
         return None
 
 # Main script
@@ -61,14 +61,14 @@ try:
     response = requests.get(topstories_url, headers=headers, timeout=10)
     response.raise_for_status()
     top_ids = response.json()[:500]
-    print(f"✅ Fetched {len(top_ids)} top story IDs")
+    print(f"Fetched {len(top_ids)} top story IDs")
     # If a request fails print a message and move on
 except Exception as e:
-    print(f"❌ Failed to fetch top stories: {e}")
+    print(f"Failed to fetch top stories: {e}")
     top_ids = []
 
 if not top_ids:
-    print("❌ No story IDs retrieved. Exiting.")
+    print("No story IDs retrieved. Exiting.")
     exit(1)
 
     # Prepare collection
@@ -77,11 +77,11 @@ story_index = 0
 collected_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Step 2: Get each story details and categorize them
-print("📂 Collecting up to 100 stories per category (scanning top stories)...\n")
+print("Collecting up to 100 stories per category (scanning top stories)...\n")
 
 for cat in CATEGORIES:
     count_before = len(collected_stories)
-    print(f"🔍 Collecting for category: {cat.upper()}")
+    print(f"Collecting for category: {cat.upper()}")
 
     while len(collected_stories) - count_before < 100 and story_index < len(top_ids):
         story_id = top_ids[story_index]
@@ -120,7 +120,7 @@ with open(filename, "w", encoding="utf-8") as f:
 
 # Print how many stories were collected
 print("\n" + "=" * 60)
-print("✅ TASK 1 COMPLETE!")
+print(" TASK 1 COMPLETE!")
 print(f"Collected {len(collected_stories)} stories.")
 print(f"Saved to {filename}")
 print("=" * 60)

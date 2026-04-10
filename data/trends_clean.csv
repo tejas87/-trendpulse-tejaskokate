@@ -1,0 +1,108 @@
+post_id,title,category,score,num_comments,author,collected_at
+47720418,"Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",technology,14,0,danoandco,2026-04-10 20:23:36
+47669923,Clojure on Fennel Part One: Persistent Data Structures,technology,69,2,roxolotl,2026-04-10 20:23:36
+47716490,FBI used iPhone notification data to retrieve deleted Signal messages,technology,452,230,01-_-,2026-04-10 20:23:36
+47704804,How NASA built Artemis II’s fault-tolerant computer,technology,565,215,speckx,2026-04-10 20:23:36
+47721207,HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X,technology,22,2,speckx,2026-04-10 20:23:36
+47719486,France to ditch Windows for Linux to reduce reliance on US tech,technology,276,110,Teever,2026-04-10 20:23:36
+47712656,We've raised $17M to build what comes after Git,technology,276,600,ellieh,2026-04-10 20:23:36
+47718891,Supply chain nightmare: How Rust will be attacked and what we can do to mitigate,technology,78,43,fanf2,2026-04-10 20:23:36
+47718470,Code is run more than read (2023),technology,100,69,facundo_olano,2026-04-10 20:23:36
+47720060,Why I'm Building a Database Engine in C#,technology,40,9,vyrotek,2026-04-10 20:23:36
+47709158,Charcuterie – Visual similarity Unicode explorer,technology,300,70,rickcarlino,2026-04-10 20:23:36
+47678844,Show HN: Marimo pair – Reactive Python notebooks as environments for agents,technology,105,26,manzt,2026-04-10 20:23:36
+47718114,US summons bank bosses over cyber risks from Anthropic's latest AI model,technology,88,72,ascold,2026-04-10 20:23:36
+47717587,OpenAI backs Illinois bill that would limit when AI labs can be held liable,technology,391,287,smurda,2026-04-10 20:23:36
+47707632,"Instant 1.0, a backend for AI-coded apps",technology,195,106,stopachka,2026-04-10 20:23:36
+47708697,"Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",technology,26,6,qvac,2026-04-10 20:23:36
+47706141,Research-Driven Agents: When an agent reads before it codes,technology,199,52,hopechong,2026-04-10 20:23:36
+47674950,An AI robot in my home,technology,64,28,kukanani,2026-04-10 20:23:36
+47713113,"The Raft consensus algorithm explained through ""Mean Girls"" (2019)",technology,125,28,vermilingua,2026-04-10 20:23:36
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,technology,147,22,juretriglav,2026-04-10 20:23:36
+47687273,Git commands I run before reading any code,technology,2263,487,grepsedawk,2026-04-10 20:23:36
+47719268,Born Private: Reserve your child's first email address with Proton,technology,16,9,teekert,2026-04-10 20:23:36
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,26,4,russellharper,2026-04-10 20:23:36
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,159,97,SirHound,2026-04-10 20:23:36
+47695666,Show HN: Druids – Build your own software factory,technology,57,12,etherio,2026-04-10 20:23:36
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,340,221,kisamoto,2026-04-10 20:23:36
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,technology,244,267,speckx,2026-04-10 20:23:36
+47701233,Claude mixes up who said what,technology,448,341,sixhobbits,2026-04-10 20:23:36
+47660434,C# in Unity 2026: Writing more modern code,technology,77,99,hacker_13,2026-04-10 20:23:36
+47704285,Clean code in the age of coding agents,technology,58,86,yanis_t,2026-04-10 20:23:36
+47710782,The Training Example Lie Bracket,technology,30,16,pb1729,2026-04-10 20:23:36
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,401,48,WerWolv,2026-04-10 20:23:36
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1525,832,Ryan5453,2026-04-10 20:23:36
+47689237,US cities are axing Flock Safety surveillance technology,technology,755,428,giuliomagnifico,2026-04-10 20:23:36
+47708817,Maine is about to become the first state to ban major new data centers,technology,293,420,rmason,2026-04-10 20:23:36
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,technology,106,23,hasheddan,2026-04-10 20:23:36
+47656518,Your File System Is Already A Graph Database,technology,183,75,alxndr,2026-04-10 20:23:36
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,388,127,CharlesW,2026-04-10 20:23:36
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,424,195,nickvec,2026-04-10 20:23:36
+47708411,Bitmap fonts make computers feel like computers again,technology,108,80,speckx,2026-04-10 20:23:36
+47704881,The Vercel plugin on Claude Code wants to read your prompts,technology,268,109,akshay2603,2026-04-10 20:23:36
+47704443,Study found that young adults have grown less hopeful and more angry about AI,technology,131,176,elsewhen,2026-04-10 20:23:36
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,324,56,chrsw,2026-04-10 20:23:36
+47711960,Vibe-Coded Ext4 for OpenBSD,technology,11,5,signa11,2026-04-10 20:23:36
+47718763,Nearly half of US data centers planned for 2026 canceled or delayed,technology,10,0,vrganj,2026-04-10 20:23:36
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,technology,213,214,bundie,2026-04-10 20:23:36
+47672295,Every GPU That Mattered,technology,329,207,jonbaer,2026-04-10 20:23:36
+47674606,Show HN: Unicode Steganography,technology,55,14,PatrickVuscan,2026-04-10 20:23:36
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,technology,18,15,Rial_Labs,2026-04-10 20:23:36
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",technology,32,2,1vuio0pswjnm7,2026-04-10 20:23:36
+47713732,First man convicted under Take It Down Act kept making AI nudes after arrest,technology,16,0,tzs,2026-04-10 20:23:36
+47700460,Ask HN: What are you building that's not AI related?,technology,131,171,meander_water,2026-04-10 20:23:36
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",technology,22,7,1vuio0pswjnm7,2026-04-10 20:23:36
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,technology,52,37,dreamsome,2026-04-10 20:23:36
+47689319,Show HN: Skrun – Deploy any agent skill as an API,technology,60,12,frizull,2026-04-10 20:23:36
+47709197,US defense official overseeing AI reaped millions selling xAI stock,technology,55,11,malshe,2026-04-10 20:23:36
+47715761,5 Open-Source Projects Running Transformers on CPUs to GPUs in Pure-Modern Java,technology,7,2,mikepapadim,2026-04-10 20:23:36
+47698067,You Can Just Print an Air Purifier,technology,39,9,zdw,2026-04-10 20:23:36
+47715291,Scientists invented a fake disease. AI told people it was real,technology,85,88,latexr,2026-04-10 20:23:36
+47675625,Cloudflare targets 2029 for full post-quantum security,technology,383,112,ilreb,2026-04-10 20:23:36
+47710405,Verification Is the Next Bottleneck in AI-Assisted Development,technology,5,2,aray07,2026-04-10 20:23:36
+47664836,AI helps add 10k more photos to OldNYC,technology,144,50,evakhoury,2026-04-10 20:23:36
+47712134,Mexican surveillance company Grupo Seguritech watches the U.S. border,technology,5,0,classichasclass,2026-04-10 20:23:36
+47672318,Blackholing My Email,technology,178,35,semyonsh,2026-04-10 20:23:36
+47703573,FBI Extracted Deleted Signal Messages Saved in iPhone Notification Database,technology,80,27,bjord,2026-04-10 20:23:36
+47715982,South Korea introduces universal basic mobile data access,technology,5,1,rguiscard,2026-04-10 20:23:36
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,434,200,henrygarner,2026-04-10 20:23:36
+47675013,Dropping Cloudflare for Bunny.net,technology,411,209,shintoist,2026-04-10 20:23:36
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,166,264,tantalor,2026-04-10 20:23:36
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1342,747,StanAngeloff,2026-04-10 20:23:36
+47718458,Tech job relocation market is recovering. The competition is growing faster,technology,40,66,andrewstetsenko,2026-04-10 20:23:36
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,905,134,armanified,2026-04-10 20:23:36
+47677241,Taste in the age of AI and LLMs,technology,263,210,speckx,2026-04-10 20:23:36
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,292,36,karimf,2026-04-10 20:23:36
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,155,22,ikessler,2026-04-10 20:23:36
+47680532,"Cells for NetBSD: kernel-enforced, jail-like isolation",technology,54,12,akagusu,2026-04-10 20:23:36
+47699086,App Store sees 84% surge in new apps as AI coding tools take off,technology,65,74,gardaani,2026-04-10 20:23:36
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,technology,15,4,guitarlimeo,2026-04-10 20:23:36
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,128,29,kitfunso,2026-04-10 20:23:36
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,132,72,stevebmark,2026-04-10 20:23:36
+47700084,"Code Is Cheap Now, and That Changes Everything",technology,66,57,v-mdev,2026-04-10 20:23:36
+47687755,Struggle Against the Gods,technology,57,6,marcofloriano,2026-04-10 20:23:36
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,219,26,desideratum,2026-04-10 20:23:36
+47705358,AI Cybersecurity After Mythos: The Jagged Frontier,technology,8,1,akavel,2026-04-10 20:23:36
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,244,375,flinner,2026-04-10 20:23:36
+47695647,The AI Great Leap Forward,technology,132,62,jodah,2026-04-10 20:23:36
+47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,technology,71,90,hackernj,2026-04-10 20:23:36
+47673541,AI may be making us think and write more alike,technology,231,243,giuliomagnifico,2026-04-10 20:23:36
+47684811,One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot,technology,40,48,meryll_dindin,2026-04-10 20:23:36
+47703498,White-Collar Workers Are Rebelling Against AI – 80% Refuse Adoption Mandates,technology,30,6,sarimkx,2026-04-10 20:23:36
+47694093,"One item purchased, ten emails",technology,127,98,speckx,2026-04-10 20:23:36
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,405,102,vbtechguy,2026-04-10 20:23:36
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,460,294,thisislife2,2026-04-10 20:23:36
+47696210,AMD AI director says Claude Code is becoming dumber and lazier since update,technology,51,14,Logans_Run,2026-04-10 20:23:36
+47699090,'There's a lot of desperation': older workers turn to AI training to stay afloat,technology,38,9,Stratoscope,2026-04-10 20:23:36
+47684506,LLM scraper bots are overloading acme.com's HTTPS server,technology,68,62,mjyut,2026-04-10 20:23:36
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,335,166,rglullis,2026-04-10 20:23:36
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,57,18,zdw,2026-04-10 20:23:36
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,32,12,brene,2026-04-10 20:23:36
+47715161,France Launches Government Linux Desktop Plan as Windows Exit Begins,worldnews,6,1,doener,2026-04-10 20:23:36
+47709123,How Iran's Information War Machine Operates Online,worldnews,6,0,mikhael,2026-04-10 20:23:36
+47683613,ICE acknowledges it is using powerful spyware,worldnews,68,8,dnemmers,2026-04-10 20:23:36
+47710608,FCC considers retroactive ban on foreign hardware,worldnews,6,4,topspin,2026-04-10 20:23:36
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,39,23,beardyw,2026-04-10 20:23:36
+47712641,White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War,worldnews,11,3,bookofjoe,2026-04-10 20:23:36
+47710595,The Iran war depleted US weapons. Rebuilding will require China's cooperation,worldnews,11,1,n1b0m,2026-04-10 20:23:36
+47704060,Not just spyware scandals: EU is funding the industry that spies on Europeans,worldnews,8,0,latexr,2026-04-10 20:23:36
