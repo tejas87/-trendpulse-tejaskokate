@@ -77,13 +77,13 @@ story_index = 0
 collected_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Step 2: Get each story details and categorize them
-print("📂 Collecting up to 25 stories per category (scanning top stories)...\n")
+print("📂 Collecting up to 100 stories per category (scanning top stories)...\n")
 
 for cat in CATEGORIES:
     count_before = len(collected_stories)
     print(f"🔍 Collecting for category: {cat.upper()}")
 
-    while len(collected_stories) - count_before < 25 and story_index < len(top_ids):
+    while len(collected_stories) - count_before < 100 and story_index < len(top_ids):
         story_id = top_ids[story_index]
         story_index += 1
 
