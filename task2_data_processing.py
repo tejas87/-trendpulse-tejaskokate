@@ -25,7 +25,7 @@ df = pd.read_json(latest_json)
 
 print(f"Loaded {len(df)} stories from {latest_json}\n")
 
-# Step 2: Cleaning process (with printed counts after each major step)
+# Step 2: Clean the data
 
 # 2.1 Remove duplicates based on post_id
 df = df.drop_duplicates(subset=['post_id'])
@@ -51,13 +51,12 @@ os.makedirs("data", exist_ok=True)
 clean_file = "data/trends_clean.csv"
 df.to_csv(clean_file, index=False, encoding='utf-8')
 
-print(f"\n✅ Saved {len(df)} rows to {clean_file}")
+print(f"\nSaved {len(df)} rows to {clean_file}")
 
 # Final summary: stories per category
 print("\nStories per category:")
 print(df['category'].value_counts().sort_index())
 
 print("\n" + "=" * 60)
-print("✅ TASK 2 COMPLETE!")
-print("Ready for Task 3 → Load this CSV and run analysis")
+print(" TASK 2 COMPLETE!")
 print("=" * 60)
